@@ -2,7 +2,7 @@
 
 Solution for Amazon ML Challenge 2021  
 Team Name - CRP  
-Team members: [Paritosh Dahiya](https://github.com/hnhparitosh), [Rishaab Kalra](https://github.com/PeaPals) and [Chaitanya Gupta](https://github.com/Chaitanya31612).  
+Team members: [Paritosh Dahiya](https://github.com/hnhparitosh), [Rishaab Kalra](https://github.com/neonklr) and [Chaitanya Gupta](https://github.com/Chaitanya31612).  
 * Did the basic data cleaning - lower case, replacing symbols with spaces, deleted stopwords from text.  
 * Replaced NaNs with empty string ''.  
 * Concatenated all the strings together.  
